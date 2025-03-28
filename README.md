@@ -1,6 +1,5 @@
 # ECgMLP
 An automated Endometrial Cancer Diagnosis approach using Histopathological Image through image Preprocessing and Optimized gated Multi-Layer Perceptron Model
-
 # Libraries for Image Preprocessing
 
 ### 1. **OpenCV**
